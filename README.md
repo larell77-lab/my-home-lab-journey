@@ -13,9 +13,9 @@ A professional-grade virtualization environment built on a **Dell OptiPlex 7080*
 
 ## 🌐 Network Architecture
 I have architected this lab to run "headless" (managed via Web GUI/SSH) with a dedicated static IP to ensure persistent access.
-* **Server Static IP:** `192.168.68.50`
-* **Gateway:** `192.168.68.1` (Deco X20 Router)
-* **Primary DNS:** `1.1.1.1` (Cloudflare) for high-reliability resolution.
+* **Server Static IP:** `192.168.68.xxx`
+* **Gateway:** `192.168.68.xxx` (Deco X20 Router)
+* **Primary DNS:** `X.X.X.X` (Cloudflare) for high-reliability resolution.
 
 ---
 
